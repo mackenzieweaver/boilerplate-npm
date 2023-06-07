@@ -13,5 +13,9 @@
 	},
 	"author": "Mack",
 	"description": "A project that does something awesome",
-	"keywords": [ "freecodecamp" ]
+	"keywords": [
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "1.0.0"
 }
